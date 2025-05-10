@@ -1,0 +1,15 @@
+{
+  "name": "SRT조회",
+  "short_name": "SRT조회",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "SRT 도착 시각을 조회하는 앱",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
